@@ -16,7 +16,7 @@
 <h6 align="center">
 🌱 Back-End :이동준
 <br/>
-🌱 Front-End :김범수
+🌱 Front-End :dition0221
 <br/>
 </h6>
 <h6 align="center">📚Tech Stack📚</h6>
